@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soha 
 - 👀 I’m passionate about natural language processing and machine learning 
-- 🌱 I am system analyst
+
 
 <!---
 Soha85/Soha85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
